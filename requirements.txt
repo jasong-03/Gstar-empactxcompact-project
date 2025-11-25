@@ -1,0 +1,16 @@
+# COMPACT Training Requirements
+torch>=2.0.0
+transformers==4.56.2
+trl==0.22.2
+unsloth
+vllm>=0.8.0
+datasets>=2.14.0
+pandas>=1.5.0
+numpy>=1.24.0
+bitsandbytes>=0.41.0
+peft>=0.7.0
+accelerate>=0.24.0
+safetensors>=0.4.0
+python-dotenv
+comet_ml
+huggingface_hub
